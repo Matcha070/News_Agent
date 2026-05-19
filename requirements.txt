@@ -8,3 +8,4 @@ langchain-core
 beautifulsoup4
 newspaper3k
 openai
+lxml_html_clean

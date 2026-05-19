@@ -3,3 +3,5 @@ uvicorn[standard]
 line-bot-sdk
 python-dotenv
 requests
+langgraph
+langchain-core
